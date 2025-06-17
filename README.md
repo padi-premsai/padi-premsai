@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hi there, I'm Premsai Padi
 
-<!--
-**padi-premsai/padi-premsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Engineer | Full-Stack Developer  
+💡 Passionate about building scalable web & mobile apps  
+🚀 Tech Stack: Java, Spring Boot, Angular, TypeScript, Flutter, MySQL  
 
-Here are some ideas to get you started:
+🌟 Silver Medalist | Prathibha Awardee  
+📸 Hobbies: Photography, Gardening, Travel  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/your-link/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+
+---
+
+### 📊 GitHub Stats
+![Premsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=padi-premsai&show_icons=true&theme=radical)
+
+---
+
+### ✍️ Recent Projects
+- 🛍️ **Just Born** – Kids shopping app  
+- 🐄 **Dairy Farm** – Milk collection and tracking system  
+- 🏥 HealthcareNow – Billing & Subscription system, PhonePe Payment Gateway integration  
