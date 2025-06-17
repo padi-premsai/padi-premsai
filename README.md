@@ -4,7 +4,7 @@
 💡 Passionate about solving real-world problems through code  
 🚀 Tech Stack: Java | Spring Boot | Angular | TypeScript | Flutter | MySQL
 
-🏅 Silver Medalist | Prathibha Awardee  
+🥈 Silver Medalist | Prathibha Awardee  
 🌱 Always learning new tech  
 📸 Hobbies: Photography | Gardening | Travel  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link/)  
