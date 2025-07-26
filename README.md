@@ -7,7 +7,7 @@
 🥈 Silver Medalist | Prathibha Awardee  
 🌱 Always learning new tech  
 📸 Hobbies: Photography | Gardening | Travel  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link/)  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/padi-premsai/)  
 
 ---
 
